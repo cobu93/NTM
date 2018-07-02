@@ -1,0 +1,6 @@
+model_checkpoint_path: "ntm-99900"
+all_model_checkpoint_paths: "ntm-99700"
+all_model_checkpoint_paths: "../ntm-99800"
+all_model_checkpoint_paths: "ntm-99800"
+all_model_checkpoint_paths: "../ntm-99900"
+all_model_checkpoint_paths: "ntm-99900"
